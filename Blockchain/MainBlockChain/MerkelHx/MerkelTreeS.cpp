@@ -7,7 +7,7 @@
 
 // Function to calculate the hash of a given string
 std::string sha256(const std::string& input) {
-    // Placeholder implementation for simplicity
+    // simplicity
     // proper cryptographic library for real-world usage
     return "hash(" + input + ")";
 }
