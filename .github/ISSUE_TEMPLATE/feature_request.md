@@ -1,12 +1,12 @@
 ---
-name: Feature request
-about: 'Node/validator as Server (Decenterlized) '
-title: ''
-labels: ''
-assignees: ''
+name: Main Goal With Block Node Chain
+about: 'Node/validator as Server/Computing (Decenterlized) '
+title: 'BlockNode'
+labels: 'RoadMap - Final'
+assignees: 'RoadMap'
 
 ---
 
-Hosting we use the server 
+Hosting we use the node server 
 
-for domain we use Domain
+for domain we use (Ens/UD)
